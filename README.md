@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greg's github profile - currently doin some Python
 
 <!--
 **flyin-squirrel/flyin-squirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
