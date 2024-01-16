@@ -1,4 +1,4 @@
-### Greg's github profile - currently doin some Python
+### Greg - Network Security (current power level: n00b+)
 
 <!--
 **flyin-squirrel/flyin-squirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
